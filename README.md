@@ -1,2 +1,2 @@
 # fish-in-da-terminal
-Did you ever need a fish in the terminal? We made it!
+Did you ever need the fishes in the terminal? We made it!
